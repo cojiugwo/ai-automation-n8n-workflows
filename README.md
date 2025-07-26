@@ -5,7 +5,7 @@ This repository showcases a collection of automation workflows built using [n8n]
 
 ## 📂 Workflows Overview
 
-1. [📰 Summarize Latest News via RSS + LLM](workflows/workflow-01-summarize-news/description.md)
+1. [📰 User Data Collection and Auto-Save via On Form Submission + Airtable](workflows/workflow-01-airtable/description.md)
 2. [📧 Email Auto-Responder with GPT-4](workflows/workflow-02-email-bot/description.md)
 
 ---
